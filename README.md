@@ -26,7 +26,7 @@
 1. Установите **Node.js** (проверено на версии `24.16.0`).
 2. Склонируйте репозиторий и перейдите в его директорию:
    ```bash
-   git clone [https://github.com/Pavel475/](https://github.com/Pavel475/)<имя-репозитория>.git
+   git clone https://github.com/Pavel475/gyginfo-bot.git
    cd <имя-репозитория>
    ```
 3. Скопируйте .env.example в .env и заполните обязательные переменные (TELEGRAM_BOT_TOKEN и GAMES_API_KEY).
